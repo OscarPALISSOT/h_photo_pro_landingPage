@@ -1,0 +1,1 @@
+C:/xampp/htdocs/h_photo_pro_landingPage/wp-content/plugins/query-monitor/wp-content/db.php

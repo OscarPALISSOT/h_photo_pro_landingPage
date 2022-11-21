@@ -1,0 +1,15 @@
+/*
+Theme Name: h_photo_pro
+Author: Oscar PALISSOT
+Author URI: https://github.com/OscarPALISSOTRequires at least: 6.1
+Requires PHP: 8.1
+Version: 0.1
+*/
+
+/* Reset css*/
+*, ::before, ::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-overflow-scrolling: touch;
+}
