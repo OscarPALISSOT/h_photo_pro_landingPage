@@ -9,7 +9,14 @@
     if ( $posts->have_posts() ) {
         while ( $posts->have_posts() ) {
             $posts->the_post();
-            the_title();
+
+            ?>
+            <a href="<?php the_field('hyperlink') ?>" target="_blank" rel="noopener noreferrer">
+                <?php the_title(); ?>
+            </a>
+            <br>
+            <?php
+
         }
     }else{
         ?> <h1>Pas de liens enregistrés.</h1> <?php
