@@ -10,8 +10,4 @@
 
 <body>
 
-
-<div style="background:blue; text-align:center">
-    <?php wp_head(); ?>
-    <h1>header</h1>
-</div>
+<?php wp_head(); ?>
