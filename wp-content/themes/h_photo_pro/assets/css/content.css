@@ -23,9 +23,6 @@
 }
 /*XSmall devices (phones, 476px and up)*/
 @media (min-width: 476px) {
-    .topPic{
-        width: 25%;
-    }
     .subtitle{
         font-size: 1.2rem;
     }

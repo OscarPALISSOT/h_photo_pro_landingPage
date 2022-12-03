@@ -1,6 +1,6 @@
 <?php get_header(); ?>
     <div class="content">
-        <img class="topPic" src="<?= get_template_directory_uri() . './assets/img/hadrien.jpg' ?>"/>
+        <img class="topPic" src="<?= get_template_directory_uri() . './assets/img/logo.png' ?>"/>
         <h1 class="title">@h_photo_pro</h1>
         <h1 class="subtitle">Découvre l'ensemble de mon contenu sur ces différents réseaux !</h1>
         <div class="links">
@@ -18,7 +18,6 @@
                         <?php the_title(); ?>
                     </a>
                     <?php
-
                 }
             } else {
                 ?> <h1>Pas de liens enregistrés.</h1> <?php
