@@ -19,7 +19,7 @@
     margin: 0 1rem 1rem 1rem;
     text-align: center;
     font-size: 1rem;
-    color: rgba(154, 154, 154, 0.6);
+    color: rgba(185, 185, 185, 0.6);
 }
 /*XSmall devices (phones, 476px and up)*/
 @media (min-width: 476px) {

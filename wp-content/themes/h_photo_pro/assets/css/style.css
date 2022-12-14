@@ -17,5 +17,6 @@ html, body{
 }
 
 body{
-    background: #3c3837;
+    background: rgb(41,46,73);
+    background: linear-gradient(245deg, rgba(41,46,73,1) 0%, rgba(83,105,118,1) 100%);
 }
